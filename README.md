@@ -21,4 +21,4 @@
 Principal component analysis is an analysis that aims to reduce dimensional data by generating new variables or main components which are linear combinations of the original variables so that the variance of the principal components is maximum and the principal components are mutually independent.
 
 ![](Screeplot.png)
-![](PCA1.png)
+![](PCA2.png)
