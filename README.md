@@ -13,4 +13,5 @@ I made some vizualitation for variables in the dataset
 ![alt text](Boxplot_Lifebystatus.png )
 
  ![](WorldLife_Map.png)
+ ![alt text](Corelogram.png)
 
