@@ -6,10 +6,12 @@ Skin cancer is a type of cancer that is characterized by abnormal cell growth in
 
 
 ## EDA
-![](Country_Status.png "Country Status by Continent")
+![](Country_Status.png)
 ![](Boxplot_Lifebystatus.png )
 ![](WorldLife_Map.png)
 ![](BMI_Map.png)
 ![](AdultMortality_Map.png)
 ![](Corelogram.png)
 
+## Clustering
+![](BMI_cluster.png "Country Status by Continent")
