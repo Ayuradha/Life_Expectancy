@@ -6,8 +6,7 @@ Skin cancer is a type of cancer that is characterized by abnormal cell growth in
 
 
 ## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
-
-![alt text](Picture1.png "Salary by Position")
-### Demo Website ![](Picture1.png)
+I made some vizualitation for variables in the dataset 
+![alt text](Country_Status "Country Status by Continent")
+![alt text](Boxplot_Lifebystatus.png )
 
