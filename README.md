@@ -5,5 +5,5 @@ Skin cancer is a type of cancer that is characterized by abnormal cell growth in
 
 
 
-### Demo Website ![](Website.jpg)
+### Demo Website ![](Picture.jpg)
 
