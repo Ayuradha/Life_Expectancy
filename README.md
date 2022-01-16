@@ -6,12 +6,10 @@ Skin cancer is a type of cancer that is characterized by abnormal cell growth in
 
 
 ## EDA
-I made some vizualitation for variables in the dataset 
-
-
-![alt text](Country_Status.png "Country Status by Continent")
-![alt text](Boxplot_Lifebystatus.png )
-
- ![](WorldLife_Map.png)
- ![alt text](Corelogram.png)
+![](Country_Status.png "Country Status by Continent")
+![](Boxplot_Lifebystatus.png )
+![](WorldLife_Map.png)
+![](BMI_Map.png)
+![](AdultMortality_Map.png)
+![](Corelogram.png)
 
