@@ -1,8 +1,7 @@
-# Life_Expectancy
-
-
-Skin cancer is a type of cancer that is characterized by abnormal cell growth in the epidermis, such as the appearance of bumps, spots, or moles with abnormal shape and size. Skin cancers develop due to exposure to Ultra-Violet (UV) radiation which causes changes in the genetic material namely the DNA composition. In this project I use convolutional neural network (CNN) using tensorflow for processing the images of skin cancer. For the website i use streamlit and deployed the model on Heroku. I build two models, basic model and improved model. I don't upload the model because the size of model is big, but you can see the architecture of my models from the notebooks.
-
+# Project Overview 
+* Making Exploratory Data Analysis For Life Expectation Dataset
+* Clustering Two Variables (Adult Mortality and BMI)
+* PCA Analysis For Life Expectation Dataset
 
 
 ## EDA
@@ -14,4 +13,12 @@ Skin cancer is a type of cancer that is characterized by abnormal cell growth in
 ![](Corelogram.png)
 
 ## Clustering
-![](BMI_cluster.png "Country Status by Continent")
+![](Elbowplot.png)
+![](Adult_Cluster.png)
+![](BMI_Cluster.png)
+
+## PCA
+Principal component analysis is an analysis that aims to reduce dimensional data by generating new variables or main components which are linear combinations of the original variables so that the variance of the principal components is maximum and the principal components are mutually independent.
+
+![](Screeplot.png)
+![](PCA.png)
