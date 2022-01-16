@@ -8,8 +8,6 @@ Skin cancer is a type of cancer that is characterized by abnormal cell growth in
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+![alt text](Picture1.png "Salary by Position")
 ### Demo Website ![](Picture1.png)
 
